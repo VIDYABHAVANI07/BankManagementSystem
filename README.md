@@ -199,7 +199,7 @@ connection = DriverManager.getConnection(
 
 ---
 
-## 👩 Author
+##  Author
 
 **Vidya Bhavani**
 
