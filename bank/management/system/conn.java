@@ -6,7 +6,7 @@ public class conn {
     Statement statement;
     public conn(){
         try{
-            connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/bankSystem","root","VB2005@vzm0731");
+            connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/bankSystem","root","YOUR_PASSWORD");
             statement=connection.createStatement();
         }
         catch(Exception e){
