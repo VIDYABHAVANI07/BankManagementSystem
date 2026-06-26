@@ -1,0 +1,8 @@
+# Java compiled files
+*.class
+
+# JVM crash logs
+hs_err_pid*.log
+
+# VS Code settings
+.vscode/
